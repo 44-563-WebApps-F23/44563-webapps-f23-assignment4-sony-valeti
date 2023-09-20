@@ -1,0 +1,36 @@
+/*speech*/
+.speech {
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: black;
+}
+.direction{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: black;
+    background-color: azure;
+}
+
+.name{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: black;
+}
+
+.direction:hover{
+    background-color:bisque;
+    color:aquamarine;
+}
+/* Character styles */
+.mary {
+    color: blue;
+}
+
+.ollivant {
+    color: green;
+}
+
+.emily {
+    color: red;
+}
