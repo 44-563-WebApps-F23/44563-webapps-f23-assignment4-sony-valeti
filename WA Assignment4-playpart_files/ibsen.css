@@ -1,0 +1,113 @@
+.speech{
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    font-size:15px;
+    color:#000000;
+}
+
+.direction{
+   font-family:Arial, Helvetica, sans-serif ;
+   font-size:13px;
+   color:black;
+   background-color:lightgrey;
+}
+
+.direction:hover{
+   background-color:lightblue;
+   color:white;
+}
+
+.name{
+    color:black;
+}
+
+.MISSTESMAN{
+ color:blueviolet;
+
+}
+
+.BERTA{
+ color:green;
+}
+
+.TESMAN{
+    color: aqua;
+}
+.MISSTESMA:hover{
+    box-shadow: 2px 2px 10px black;
+    border:2px solid red;
+}
+.BERTA:hover{
+    box-shadow: 2px 2px 10px black;
+    border:2px solid blue;
+}
+
+.TESMAN:hover{
+    box-shadow: 2px 2px 10px yellow;
+    border:2px solid green;
+}
+
+.table {
+    border-collapse: separate;
+    width: 80%; 
+    margin: 20px auto;
+}
+
+
+th {
+    background-color:grey;
+    border: 1px solid black; 
+    text-align: center;
+    padding: 10px;
+    color:white;
+    
+}
+
+
+td {
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+}
+
+tr:nth-child(even) {
+    background-color:beige; 
+}
+
+tr:nth-child(odd) {
+    background-color:antiquewhite;
+}
+
+ul.horizontal-navbar{
+
+width:100 px;
+background-color:beige;
+}
+
+ul.horizontal-navbar li {
+    display: inline;
+    margin-right: 30px;
+}
+
+ul.horizontal-navbar a {
+    display: inline;
+    text-decoration: none; 
+    color:black;
+    font-weight: bold;
+}
+
+
+ul.horizontal-navbar a:hover {
+    color: #FF5733;
+}
+
+.container {
+    text-align: center; 
+    margin: 20px; 
+}
+
+img{
+    max-width: 100%; 
+    height: auto;
+    border: 2px solid grey;
+    box-shadow: 0 0 10px black;
+}
