@@ -77,18 +77,18 @@ tr:nth-child(odd) {
     background-color:antiquewhite;
 }
 
-ul.navbar{
+ul.horizontal-navbar{
 
 width:100 px;
 background-color:beige;
 }
 
-ul.navbar li {
+ul.horizontal-navbar li {
     display: inline;
     margin-right: 30px;
 }
 
-ul.navbar a {
+ul.horizontal-navbar a {
     display: inline;
     text-decoration: none; 
     color:black;
@@ -96,7 +96,7 @@ ul.navbar a {
 }
 
 
-ul.navbar a:hover {
+ul.horizontal-navbar a:hover {
     color: #FF5733;
 }
 
